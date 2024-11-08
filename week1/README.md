@@ -1,6 +1,6 @@
 # Week 1: Introduction to Git and GitHub
 
-Welcome to Week 1 of the College Nexus Workshop! This week, we dive into **Git and GitHub**—essential tools for version control and collaboration in software development.
+Welcome to Week 1 of the College Nexus Workshop! This week, we dive into **Git and GitHub**—essential tools for version control and fcollaboration in software development.
 
 ## Extra Information
 For additional information, you can watch these videos:
